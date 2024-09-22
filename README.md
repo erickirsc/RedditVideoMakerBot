@@ -50,7 +50,7 @@ On macOS and Linux (debian, arch, fedora and centos, and based on those), you ca
 This can also be used to update the installation
 
 4. Run `python main.py`
-5. Visit [the Reddit Apps page.](https://www.reddit.com/prefs/apps), and set up an app that is a "script". Paste any URL in redirect URL. Ex:google.com
+5. Visit [the Reddit Apps page.](https://www.reddit.com/prefs/apps), and set up an app that is a "script". Paste any URL in redirect URL. Ex:`https://jasoncameron.dev`
 6. The bot will ask you to fill in your details to connect to the Reddit API, and configure the bot to your liking
 7. Enjoy 😎
 8. If you need to reconfigure the bot, simply open the `config.toml` file and delete the lines that need to be changed. On the next run of the bot, it will help you reconfigure those options.
@@ -70,7 +70,7 @@ In its current state, this bot does exactly what it needs to do. However, improv
 I have tried to simplify the code so anyone can read it and start contributing at any skill level. Don't be shy :) contribute!
 
 - [ ] Creating better documentation and adding a command line interface.
-- [ ] Allowing the user to choose background music for their videos.
+- [x] Allowing the user to choose background music for their videos.
 - [x] Allowing users to choose a reddit thread instead of being randomized.
 - [x] Allowing users to choose a background that is picked instead of the Minecraft one.
 - [x] Allowing users to choose between any subreddit.
@@ -81,13 +81,13 @@ I have tried to simplify the code so anyone can read it and start contributing a
 
 Please read our [contributing guidelines](CONTRIBUTING.md) for more detailed information.
 
-### For any questions or support join the [Discord](https://discord.gg/codingwithlewis) server
+### For any questions or support join the [Discord](https://discord.gg/qfQSx45xCV) server
 
 ## Developers and maintainers.
 
 Elebumm (Lewis#6305) - https://github.com/elebumm (Founder)
 
-Jason (JasonLovesDoggo#1904) - https://github.com/JasonLovesDoggo (Maintainer)
+Jason (personality.json) - https://github.com/JasonLovesDoggo (Maintainer)
 
 Simon (OpenSourceSimon) - https://github.com/OpenSourceSimon
 
@@ -100,6 +100,8 @@ LukaHietala (Pix.#0001) - https://github.com/LukaHietala
 Freebiell (Freebie#3263) - https://github.com/FreebieII
 
 Aman Raza (electro199#8130) - https://github.com/electro199
+
+Cyteon (cyteon) - https://github.com/cyteon
 
 
 ## LICENSE
